@@ -1,0 +1,371 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #f7f5f6;
+    font-family: 'Nunito', sans-serif;
+}
+.one{
+    display: flex;
+    /* background-color: #f7f5f6; */
+}
+.ligs{
+    height: 20%;
+    width: 15%;
+    margin-left: 10.5%;
+    margin-top: -2%;
+}
+h2{
+    text-align: left;
+    margin-top: -13%;
+    margin-left: 20%;
+    
+}
+span{
+    color: #5aafa1;
+}
+strong{
+    color: #3a1404;
+}
+.navbar{
+    margin-left: 35%;
+    /* background-color: #f7f5f6; */
+
+}
+.navbar ul{
+    display: flex;
+    text-decoration: none;
+    gap: 5rem;
+    margin-left: 20%;
+}
+.navbar li{
+    /* display: flex; */
+    text-decoration: none;
+    outline: none;
+    padding: 1% 1%;
+    
+}
+.navbar a{
+    padding-left: 3%;
+    display: inline-block;
+}
+.btn{
+    width: 80px;
+    height:40px;
+    border: none;
+    border-radius: 15px;
+    background-color: #5185f9;
+}
+.socialmedia{
+    margin-top: 20%;
+    margin-left: 3%;
+    display: flex;
+}
+.socialmedia{
+    margin-top: 30px;
+}
+.instagram i{
+    background-color: #faba31;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.twitter i{
+    background-color: #5aafa1;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.image{
+    float: right;
+    margin-top: -200px;
+}
+h1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+p{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.buzz button{
+    width: 80px;
+    height: 40px;
+    border: none;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: #5aafa1;
+}
+.kicky button{
+    width: 90px;
+    height: 45px;
+    border: none;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    /* box-shadow: borderbox; */
+}
+.share{
+    display: flex;
+    
+}
+.slack i{
+    background-color: #b7c0ce;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.prudencial i{
+    background-color: #b7c0ce;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.microsoft i{
+    background-color: #b7c0ce;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.logo2 i{
+    background-color: #b7c0ce;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.officons{
+    display: inline-flex;
+    margin-left:450px;
+    background: none;
+    /* background-color: #b7c0ce; */
+    /* padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px; */
+}
+.slack{
+    margin-left: -30%;
+}
+.punns{
+    display: inline-flex;
+    padding: 12px 18px;
+    margin: 20px;
+    width: 90%;
+    height: 30vh;
+    margin-left: 40px;
+    justify-content: center;
+    background-color: #ffffff;
+}
+.punns p{
+    font-size: 20px;
+    font-weight: bolder;
+    background: none;
+    align-items: cente;
+
+}
+.kim{
+    padding-left: 50px;
+    margin-left: 20px;
+    background-color: #ffffff;
+}
+.lee{
+    padding-left: 50px;
+    margin-left: 20px;
+    background-color: #ffffff;
+}
+.sun{
+    padding-left: 50px;
+    margin-left: 20px;
+    background-color: #ffffff;
+}
+.param{
+    color: #5aafa1;
+    text-align: center;
+}
+.yes{
+    text-align: center;
+}
+.complogo{
+    background-color: #f7f5f6;
+}
+.design{
+    padding: 30px;
+    padding-left: 100px;
+    background-color: #f5f9fa;
+    /* margin: 20px; */
+    width: 250px;
+}
+.call{
+    background: none;
+}
+.development{
+    padding: 30px;
+    padding-left: 100px;
+    background-color: #5aafa1;
+    /* margin: 20px; */
+    width: 250px;
+}
+.dev{
+    background-color: #fdf0e9;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 20px;
+}
+
+.development h3{
+    color: #ffffff;
+}
+.ans{
+    background: none;
+    color: #ffffff;
+}
+.marketing{
+    /* padding: 30px; */
+    padding-left: 100px;
+    background-color: #eaf6fe;
+    /* margin: 20px; */
+    width: 250px;
+}
+.market{
+    background-color: #faba31;
+    border:none;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 20px;
+}
+.go{
+    background: none;
+}
+.serve{
+    display: flex;
+    margin-top: 10%;
+}
+.components{
+    display: flex;
+    margin-left: 10%;
+}
+h3{
+    background:none;
+}
+.vet{
+    margin-left: auto;
+    color: #5aafa1;
+    /* margin-top: -20%; */
+}
+.kipt{
+    /* margin-left: auto; */
+    font-size: 30px;
+}
+.num1{
+    background-color: #5aafa1;
+    border:none;
+    margin-bottom: -40px;
+    padding: 15px;
+    border-radius: 90px;
+    margin-left: 35px;
+    width: 20px;
+}
+.fstsent p{
+    background: none;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.num2{
+    background-color: #5185f9;
+    border:none;
+    margin-bottom: -40%;
+    padding: 15px;
+    border-radius: 90px;
+    margin-left: 35px;
+    width: 20px;
+}
+.sstsent p{
+    background: none;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.num3{
+    background-color: #faba31;
+    border:none;
+    margin-bottom: -40px;
+    padding: 15px;
+    border-radius: 90px;
+    margin-left: 35px;
+    width: 20px;
+}
+.kstsent p{
+    background: none;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.subscribe h1{
+    text-align: center;
+    background-color: #ffffff;
+}
+.subscribe p{
+    text-align: center;
+    background-color: #ffffff;
+}
+.email{
+    margin-left: 30%;
+    background-color: #ffffff;
+}
+.email input{
+    width: 600px;
+    height: 10vh;
+    border: none;
+    border-radius: 15px;
+    background-color: #5aafa1;
+}
+button{
+    margin-left: -13%;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    background-color: #5185f9;
+}
+.subscribe{
+    height: 50vh;
+    background-color: #ffffff;
+}
+.footer h3{
+    color: #5aafa1;
+    /* text-align: left; */
+    margin-left: 23px;
+    background: none;
+}
+h4{
+    margin-left:4%;
+    height:15%;
+}
+input{
+    height: 10vh;
+    width: 30%;
+    margin-left: 2%;
+    border-radius: 15px;
+    border: none;
+    background-color: #ffffff;
+}
+.send button{
+    width: 100px;
+    margin-left: 15px;
+    border: none;
+    background-color: #5aafa1;
+}
+#name input{
+    margin-left: 10px;
+    width: 50%;
+    height: 20vh;
+}
+.pic{
+    float: right;
+    margin-top: -350px;
+    background-repeat: no-repeat;
+}
+
